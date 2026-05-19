@@ -403,7 +403,7 @@ def mtf2ss(G):
                 # organizing the output matrix
                 Css[i, ct : ct + nij] = C[i][j][0, :]
                 # organizing the feedforward matrix
-                Dss[i, j] = D[i][j]
+                Dss[i, j] = D[i][j][0][0]
                 # increase the counter
                 ct = ct + nij
 
