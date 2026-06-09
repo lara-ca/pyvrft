@@ -32,8 +32,9 @@ where *u* and *y* are input/output data, *Td* is the reference model, *C* descri
 
 ## Citation
 
-A DOI will be added after the GitHub repository is connected to Zenodo and an archived release is created.
-For current citation guidance, see <https://pyvrft.net/citation/>.
+The archived software release is available at <https://doi.org/10.5281/zenodo.20602578>.
+Related SoftwareX article: <https://doi.org/10.1016/j.softx.2019.100383>.
+For citation guidance, see <https://pyvrft.net/citation/>.
 
 ## Contributors
 

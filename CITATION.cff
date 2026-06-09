@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use pyvrft, please cite it using the metadata from this file."
+title: "pyvrft: Virtual Reference Feedback Tuning"
+version: 1.2
+doi: 10.5281/zenodo.20602578
+date-released: 2026-06-08
+authors:
+  - family-names: Eckhard
+    given-names: Diego
+  - family-names: Boeira
+    given-names: Emerson Christ
+repository-code: "https://github.com/datadrivencontrol/pyvrft"
+url: "https://pyvrft.net/"
+license: MIT

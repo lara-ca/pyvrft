@@ -16,6 +16,11 @@ setup(
     author='Diego Eckhard',
     author_email='diego@eckhard.com.br',
     url='https://github.com/datadrivencontrol/pyvrft',
+    project_urls={
+        'Documentation': 'https://pyvrft.net/',
+        'DOI': 'https://doi.org/10.5281/zenodo.20602578',
+        'Source': 'https://github.com/datadrivencontrol/pyvrft',
+    },
     license='MIT',
     zip_safe=False,
     classifiers=[

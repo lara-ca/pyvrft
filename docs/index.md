@@ -38,11 +38,11 @@ Signals are represented as NumPy matrices shaped `(N, n)`, where `N` is the numb
 - [Basic Concepts](basic-concepts.md): signal shapes, transfer-function conventions, MIMO lists, and controller structures.
 - [Examples](examples.md): runnable SISO, MIMO, and CSV examples from the repository.
 - [API Reference](api.md): public functions re-exported by `vrft`.
-- [Citation](citation.md): citation information and planned DOI workflow.
+- [Citation](citation.md): citation information and DOI.
 
 ## Citation
 
-A DOI will be added after the GitHub repository is connected to Zenodo and an archived release is created. See [Citation](citation.md).
+The archived software release is available at <https://doi.org/10.5281/zenodo.20602578>. See [Citation](citation.md).
 
 ## Links
 

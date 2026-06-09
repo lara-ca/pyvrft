@@ -28,7 +28,7 @@
 - The custom domain for this project is `pyvrft.net`; `docs/CNAME` contains this value for GitHub Pages.
 - `/site/` is generated MkDocs build output and is ignored; do not edit or version it.
 - Planned canonical repository is `https://github.com/datadrivencontrol/pyvrft`.
-- DOI should be created through Zenodo connected to the GitHub repository, then recorded in package metadata, README, and documentation; create/update `CITATION.cff` only after the real Zenodo DOI exists.
+- Zenodo DOI is `10.5281/zenodo.20602578`; keep it consistent in `CITATION.cff`, package metadata, README, and documentation.
 
 ## Examples
 - Example scripts are under `example/`.
