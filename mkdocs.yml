@@ -8,8 +8,8 @@ site_url: https://pyvrft.net/
 theme:
   name: material
   palette:
-    primary: blue
-    accent: teal
+    primary: red
+    accent: red
   features:
     - navigation.sections
     - search.suggest
