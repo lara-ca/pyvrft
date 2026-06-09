@@ -1,5 +1,9 @@
 # pyvrft
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20602578-blue)](https://doi.org/10.5281/zenodo.20602578)
+[![PyPI](https://img.shields.io/pypi/v/pyvrft.svg)](https://pypi.org/project/pyvrft/)
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Virtual Reference Feedback Tuning Toolbox
 
 ## Description
