@@ -15,7 +15,7 @@ setup(
     install_requires=['numpy','scipy','matplotlib'],
     author='Diego Eckhard',
     author_email='diego@eckhard.com.br',
-    url='http://github.com/datadrivencontrol/pyvrft',
+    url='https://github.com/datadrivencontrol/pyvrft',
     license='MIT',
     zip_safe=False,
     classifiers=[

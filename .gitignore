@@ -9,3 +9,6 @@
 
 # Python Cache
 __pycache__
+
+# MkDocs build output.
+/site/
