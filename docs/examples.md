@@ -20,6 +20,10 @@ Designs a MIMO PI controller using data loaded from `data.csv` with `vrft.datafr
 
 This script reads the file with the relative path `"data.csv"`, so run it from inside the `example/` directory unless the path is changed.
 
+### `siso_fisher.py`
+
+Designs a SISO controller using VRFT with the Fisher information matrix method. Uses a step input and near-redundant controller terms to illustrate ill-conditioning of the Fisher matrix Z.
+
 ## Running the examples
 
 Install the package first:
@@ -35,6 +39,7 @@ cd example
 python siso.py
 python mimo.py
 python mimo_csv.py
+python siso_fisher.py
 ```
 
 Running from `example/` is required for `mimo_csv.py` because of the relative `data.csv` path.
